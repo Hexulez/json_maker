@@ -1,0 +1,31 @@
+{
+  "image": "C:/this_data_is feeded by user/1.png",
+  "tokenId": 1,
+  "name": "125 Retro LYYTINEN 6 Gold",
+  "description": "Also this data is given by user. =)",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": 6
+    },
+    {
+      "trait_type": "Surname",
+      "value": "LYYTINEN"
+    },
+    {
+      "trait_type": "First Name",
+      "value": "Joonas"
+    },
+    {
+      "trait_type": "Position",
+      "value": "Defender"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "125 Retro"
+    }
+  ]}
