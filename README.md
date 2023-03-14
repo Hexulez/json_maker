@@ -1,6 +1,6 @@
 # Python json converter
 
-# PHP_UI is userinterface implemented with PHP symfony frmawork, it allows users to upload e.g an Excel file and convert it into a JSON file that can be downloaded.
+# PHP_UI is user interface implemented with PHP symfony framework, it allows users to upload e.g an Excel file and convert it into a JSON file that can be downloaded.
 
 # PHP_UI folder
 
