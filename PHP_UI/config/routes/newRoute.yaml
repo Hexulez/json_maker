@@ -1,0 +1,4 @@
+app_process_file_upload:
+  path: /process-file-upload
+  methods: [POST]
+  controller: App\Controller\DefaultController::processFileUpload

@@ -1,0 +1,4 @@
+app_upload:
+  path: /upload
+  methods: [GET, POST]
+  controller: App\Controller\DefaultController::upload

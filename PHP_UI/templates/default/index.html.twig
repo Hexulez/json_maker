@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Excel File</title>
+</head>
+<body>
+    <h1>Upload Excel File</h1>
+   <form action="{{ path('app_process_file_upload') }}" method="POST" enctype="multipart/form-data">
+        <label for="input-file">Select Excel File:</label>
+        <input type="file" name="input-file" id="input-file" required>
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
